@@ -1,0 +1,15 @@
+.task-management {
+  text-align: center;
+}
+
+.add-task-button {
+  margin: 10px;
+}
+
+.delete-task-button {
+  margin: 10px;
+}
+
+.task-list {
+  padding: 0px;
+}
